@@ -1,5 +1,5 @@
 import re
-
+#teste
 # Definindo as expressões regulares para os tokens
 token_patterns = [
     (r'\bfor\b', 'LOOP FOR'),         # Loop FOR
